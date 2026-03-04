@@ -9,7 +9,7 @@ The following are recommended, but not required:
 
 ## Usage
 
-1. go to https://imleznupar.github.io/birthday-cake/
+1. go to [birthday-cake-blue.vercel.app](https://birthday-cake-blue.vercel.app/)
 2. enjoy :) 
 
 ## How it works
